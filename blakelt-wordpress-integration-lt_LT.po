@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blake.lt wordpress integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-09 08:07+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Aurelijus Valeiša <aurelijus@astdev.lt>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration\n"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:68
+msgid "Blake.lt plugin settings"
+msgstr "Blake.lt įskiepio nustatymai"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:71
+msgid "Because this is the first version of Blake.lt plugin, we do not have any configuration options, yet."
+msgstr "Kadangi tai yra pirma Blake.lt įskiepio versija, nustatymų dar nėra."
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:74
+msgid "Blake.lt plugin usage"
+msgstr "Blake.lt įskiepio naudojimas"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:77
+msgid "You can use this plugin as a widget. To do that go to \"Appearance\" > \"Widgets\" and add Blake.lt widget."
+msgstr "Įskiepį galite naudoti kaip valdiklį (angl. widget). Eikite į \"Išvaizda\" > \"Valdikliai\" ir aktyvuokite Blake.lt valdiklį."
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:80
+msgid "Also you can use this plugin as a standalone function. Anywhere in your theme files you can use this:"
+msgstr "Taip pat galite naudoti šį įskiepį, kaip funkciją. Bet kur savo išvaizdos failuose galite naudoti:"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:84
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:95
+msgid "Updates"
+msgstr "Atnaujinimai"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:90
+msgid "Replace YOUR_USERNAME with your Blake.lt username. Of course you can set, how many messages do you want to display, or set whether you want to show your username, date or replies. Like the example below:"
+msgstr "Pakeiskite YOUR_USERNAME į Blake.lt vartotojo vardą. Taip pat galite nustatyti, kiek žinučių norite rodyti ir ar norite rodyti žinutės autoriaus vartotojo vardą, datą, @atsakymus. Pavyzdžiui:"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:101
+msgid "Using the example above, you will show 1 message with replies and no username included."
+msgstr "Naudojantis aukščiau pateiktu pavyzdžiu, jūs matysite vieną žinutę su @atsakymais ir be vartotojo vardo."
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:104
+msgid "Function <em>blake_list_messages</em> retrieves already formatted messages with &lt;ul&gt; and &lt;li&gt; tags. If you want to get only an array of messages, use <em>blake_get_messages</em> instead."
+msgstr "Funkcija <em>blake_list_messages</em> grąžina jau suformatuotas žinutes su &lt;ul&gt; ir &lt;li&gt;  gairėmis. Jeigu norite gauti tik žinučių masyvą, naudokite funkciją <em>blake_get_messages</em>."
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:107
+msgid "Full documentation you can find at <a href=\"http://blakelt.pbwiki.com/Wordpress-priedas\" title=\"Blake.lt wiki\" target=\"_blank\">Blake.lt Wiki</a>."
+msgstr "Pilną dokumentaciją rasite <a href=\"http://blakelt.pbwiki.com/Wordpress-priedas\" title=\"Blake.lt wiki\" target=\"_blank\">Blake.lt Wiki</a>."
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:207
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:215
+msgid "Username:"
+msgstr "Nario vardas:"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:223
+msgid "Your Blake.lt username"
+msgstr "Jūsų Blake.lt nario vardas"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:226
+msgid "Number of updates to show:"
+msgstr "Atnaujinimų skaičius:"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:234
+msgid "(at most 20)"
+msgstr "(maks. 20)"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:239
+msgid "Show your replies"
+msgstr "Rodyti jūsų @atsakymus"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:244
+msgid "Show message author"
+msgstr "Rodyti žinutės autorių"
+
+#: /Users/aurelijus/Development/www/Other/blakelt-wordpress-integration/blakelt.php:249
+msgid "Show message date"
+msgstr "Rodyti žinutės datą"
+
